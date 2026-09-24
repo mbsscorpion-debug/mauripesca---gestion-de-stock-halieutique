@@ -1,0 +1,6 @@
+{
+  "name": "MAURIPESCA - Gestion de Stock Halieutique",
+  "description": "Système professionnel de gestion des stocks halieutiques, chambres froides, traçabilité des lots et mouvements d'export pour MAURIPESCA (Mauritanie).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

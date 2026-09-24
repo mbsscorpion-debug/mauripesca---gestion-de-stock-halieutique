@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@layer utilities {
+  @media print {
+    body {
+      background-color: white !important;
+      color: black !important;
+    }
+    .print\:hidden {
+      display: none !important;
+    }
+  }
+}
